@@ -9,17 +9,22 @@
 Test case, Check lists, Miro, Декомпозиция, Atlassian Confluence, Atlassian Jira, Atlassian Trello, QaseIO, Scrum, DevTools, Postman, Swagger, SOAPUI, Jmeter, Google Sheets, SQL, PostgresSQL.
 
 # Проекты.
-Проект 1: Тестирование рассписания, в веб-приложении для учителей от Skyeng.
+Проект 1: Тестирование нового функционала (Добавление личных событий), в веб-приложении для учителей от Skyeng.
+Требования к новому функционалу:
+https://docs.google.com/document/d/1rGt7KD6dvGScQTPD-8fOmJmgA8CO8SobpamutSMjx7Y/edit?usp=sharing
 
 Что нужно было сделать:
-1. Провести: Smoke-тестирование нового функционала.
-             Регрессионное тестирование ранее добавленного функционала.
-             Функциональное тестирование нового функционала "Личные события".
-             Составить тест-кейсы для приёмочного тестирования функционала "Личные события", на основании потребностей пользователей.
-2. Провести тестирование API.
+1. Провести Тестирование через UI.
+2. Провести функциональное тестирование через API.
 
 Как решал поставленные задачи.
-1. Написал тесты для дымового и приёмочного тестирования. Составил чек листы для регресс тестов и функционального тестирования. 
+1.Тестирорвание через UI.
+Написал тесты для дымового и приёмочного тестирования. Составил чек листы для регресс тестов и функционального тестирования. 
+
 Скриншоты и описание задач:
 [https://docs.google.com/document/d/1NfDPDJEcVZmVEgSQiu0ux_LvOlrIP5kv_aqVUJjLd2g/edit#heading=h.ipfx0bsdzv52](https://docs.google.com/document/d/1NfDPDJEcVZmVEgSQiu0ux_LvOlrIP5kv_aqVUJjLd2g/edit?usp=sharing)https://docs.google.com/document/d/1NfDPDJEcVZmVEgSQiu0ux_LvOlrIP5kv_aqVUJjLd2g/edit?usp=sharing
+
+2. Тестирование API.
+Написал тест кейсы по ним составил запросы в постман.
+https://docs.google.com/document/d/1Y9saMx4R8hpF7nSWqj0aVuptWeDE64BFqWpcyVJ5Cq4/edit?usp=sharing
 
