@@ -5,7 +5,7 @@
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
 # Навыки и технологии.
-Продвинутый пользователь ПК, Ручное тестирование, Функциональное тестирование, Тест-дизайн, Регрессионное тестирование, Smoke-tests, UI/UX, Bug Reporting
+Продвинутый пользователь ПК, Ручное тестирование, Функциональное тестирование, Тест-дизайн, Регрессионное тестирование, Smoke-tests, UI/UX, Bug Reporting,
 Test case, Check lists, Miro, Декомпозиция, Atlassian Confluence, Atlassian Jira, Atlassian Trello, QaseIO, Scrum, DevTools, Postman, Swagger, SOAPUI, Jmeter, Google Sheets, SQL, PostgresSQL.
 
 # Проекты.
