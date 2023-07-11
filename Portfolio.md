@@ -30,3 +30,6 @@ https://docs.google.com/document/d/1rGt7KD6dvGScQTPD-8fOmJmgA8CO8SobpamutSMjx7Y/
 Написал тест кейсы по ним составил запросы в постман.
 https://docs.google.com/document/d/1Y9saMx4R8hpF7nSWqj0aVuptWeDE64BFqWpcyVJ5Cq4/edit?usp=sharing
 
+Итоги проделанной работы:
+
+1. Тестирование через UI.
