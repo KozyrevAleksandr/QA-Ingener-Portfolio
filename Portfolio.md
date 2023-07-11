@@ -19,3 +19,4 @@ Test case, Check lists, Miro, Декомпозиция, Atlassian Confluence, At
 2. Провести тестирование API.
 
 Как решал поставленные задачи.
+1 Написал 
