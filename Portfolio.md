@@ -10,6 +10,7 @@ Test case, Check lists, Miro, Декомпозиция, Atlassian Confluence, At
 
 # Проекты.
 Проект 1: Тестирование нового функционала (Добавление личных событий), в веб-приложении для учителей от Skyeng.
+
 Требования к новому функционалу:
 https://docs.google.com/document/d/1rGt7KD6dvGScQTPD-8fOmJmgA8CO8SobpamutSMjx7Y/edit?usp=sharing
 
