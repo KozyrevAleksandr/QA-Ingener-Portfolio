@@ -26,11 +26,11 @@ https://docs.google.com/document/d/1rGt7KD6dvGScQTPD-8fOmJmgA8CO8SobpamutSMjx7Y/
 Написал тесты для дымового и приёмочного тестирования. Составил чек листы для регресс тестов и функционального тестирования. 
 
 Краткая демонстрация проделанной работы:
-[https://docs.google.com/document/d/1NfDPDJEcVZmVEgSQiu0ux_LvOlrIP5kv_aqVUJjLd2g/edit#heading=h.ipfx0bsdzv52](https://docs.google.com/document/d/1NfDPDJEcVZmVEgSQiu0ux_LvOlrIP5kv_aqVUJjLd2g/edit?usp=sharing)https://docs.google.com/document/d/1NfDPDJEcVZmVEgSQiu0ux_LvOlrIP5kv_aqVUJjLd2g/edit?usp=sharing
+https://docs.google.com/document/d/1NfDPDJEcVZmVEgSQiu0ux_LvOlrIP5kv_aqVUJjLd2g/edit?usp=sharing
 
 ### 2. Тестирование API.
 
-Написал тест кейсы по ним составил запросы в постман.
+Написал тест кейсы по ним составил запросы в Postman.
 
 Краткая демонстрация проделанной работы:
 https://docs.google.com/document/d/1Y9saMx4R8hpF7nSWqj0aVuptWeDE64BFqWpcyVJ5Cq4/edit?usp=sharing
