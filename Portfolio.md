@@ -33,3 +33,10 @@ https://docs.google.com/document/d/1Y9saMx4R8hpF7nSWqj0aVuptWeDE64BFqWpcyVJ5Cq4/
 Итоги проделанной работы:
 
 1. Тестирование через UI.
+
+   https://docs.google.com/document/d/1qJIUh2W50hPbm9WKUhacg2EveShV7HEPg5t8XstgUNk/edit?usp=sharing
+
+2. Функциональное тестирование через API.
+
+    https://docs.google.com/document/d/1cMBR_EAP1oSiRjVzZC2OCEiE8xduXNxIDkrMNlAupMo/edit?usp=sharing
+
