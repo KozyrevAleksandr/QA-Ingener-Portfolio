@@ -45,3 +45,5 @@ https://docs.google.com/document/d/1Y9saMx4R8hpF7nSWqj0aVuptWeDE64BFqWpcyVJ5Cq4/
 
    https://docs.google.com/document/d/1cMBR_EAP1oSiRjVzZC2OCEiE8xduXNxIDkrMNlAupMo/edit?usp=sharing
 
+# Контактная информация:
+Email: aleksandr.kozyrev94@mail.ru
