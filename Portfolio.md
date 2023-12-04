@@ -59,5 +59,7 @@ https://docs.google.com/document/d/1Y9saMx4R8hpF7nSWqj0aVuptWeDE64BFqWpcyVJ5Cq4/
 
    https://docs.google.com/document/d/1cMBR_EAP1oSiRjVzZC2OCEiE8xduXNxIDkrMNlAupMo/edit?usp=sharing
 
+### В результате проделанной работы было выявлено и исправлено несколько критических багов, а также несколько проблем, влиявших на удобство использования приложения. Что в дальнейшем положительно повлияло на качество ПО.
+
 # Контактная информация:
 Email: aleksandr.kozyrev94@mail.ru
